@@ -32,5 +32,5 @@ The dataset includes:
 The project demonstrates how SQL can be used to make data-driven pricing decisions without using complex tools or paid software.
 
 ## Author
-Koushali BS
-BTech Cybersecurity & IoT
+Jayabharathi s
+BTech Artificial Intellegence &  Data Analytics
